@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Ecuadorian Encebollado Recipe</title>
+        <link rel="stylesheet" href="odin-recipe-one.css">
+    </head>
+
+    <body>
+        <em><h1><div class="title">Ecuadorian Encebollado Recipe:</div></h1></em>  
+
+        <span class="images-1-2">
+        <img src="https://www.tasteatlas.com/Images/Dishes/9b1ecd1fa04247c2b756aa32edee66a3.jpg" 
+        alt="Ecuadorian-Encebollado-Recipe" width="310" height="310">
+
+        <img src="https://i.pinimg.com/originals/b0/d0/07/b0d0071d3628f9d02e4ddb450ff12b77.jpg" 
+        alt="Eduadorian-Encebollado-Recipe-two" width="310" height="310"></span>
+
+        <h3>Description:</h3>
+
+        <p><div class="description-paragraph">
+            Encebollado is a soup topped with thin onion slices pickled
+            in lemon juice. It's claimed that the soup cures a hangover.
+            The fish version is popular in the costal region of Ecuador.
+            Don't worry about the little heat in the soup. It finds a perfect
+            balance with the other ingrediants once you've stuck up your plate.
+            If you are lucky to find cassava aka yuca roots in the grocery 
+            store, I recomend to give it a try. Cut off the firm skin, 
+            then cook the same way as potatoes. 
+        </div></p>
+&nbsp
+        <h3><p><div class="title-one">Salad</div></p></h3>
+    
+        <ul><div class="salad-list">
+            <li>In a bowl, mix red onions, sliced tomatoes, cilantro,
+                and 1 tbsp oil
+            </li>
+            <li>Season to taste with lemon juice with salt & peper</li>
+            <li>Let it marinate for one hour</li>
+        </ul></div>
+
+        <h3><p><div class="title-two">Soup</div></p></h3>
+
+        <ul><div class="soup-list">
+            <li>In Pot #1, bring two quarts of water to boil</li>
+            <li>Add quartered tomatoes and onios, cilantro, galric, 
+                fish, encebollado spices, and salt & peper to taste.
+            </li>
+            <li>Cook over medium heat for 20 minutes</li>
+            <li>Scoop vegetables out and blend them in a food processer 
+                with one cup of the soup.
+            </li>
+            <li>Strain the liquid and add it to the pot.</li>
+        </div></ul>
+
+        <p><h3><div class="title-three">Fish</div></h3></p>
+
+        <ul><div class="fish-list">
+            <li>Tranfer the fish to a plate</li>
+            <li>When cooled, break it into small pices. Set aside.</li>
+        </div></ul>
+
+        <p><h3><div class="title-four">Potatoes</div></h3></p>
+
+        <ul><div class="patatoes-list">
+            <li>In Pot #2, cook potatoes in water with salt to taste till tender.</li>
+            <li>Drain</li>
+            <li>In a food processer, blend 1 cup of potatoes with 1 cup of the soup.</li>
+            <li>Pour this liquid into Pot #1. Mix well.</li>
+        </div></ul>
+
+        <P><h3><div class="title-five">Serve</div></h3></P>
+
+        <ul><div class="serve-list">
+            <li>Serve separately and assemble your plate in piling up 
+                the following layers: Potato, fish, soup, salad.
+            </li>
+            <li>Enjoy!</li>
+        </div></ul>
+&nbsp
+        
+    </body>
+
+</html>
